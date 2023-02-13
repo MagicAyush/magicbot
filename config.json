@@ -1,0 +1,11 @@
+ {
+ "ip": "game7.falixserver.net",
+ "port": "19985",
+ "password": "",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/login kartikopp kartikopp",
+ "login-cmd": "/login kartikopp",
+ "loginmsg": "@Blockbuster#3250 and SrjBeleaua are op",
+ "web": "true"  
+}
